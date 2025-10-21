@@ -30,7 +30,11 @@
 <img width="1862" height="835" alt="image" src="https://github.com/user-attachments/assets/a504407e-e7a5-4eea-8022-a9aca93a41bf" />
 
 4. Wazuh Manager `systemctl status wazuh-manager` (Screenshot).
-/home/ubuntu-grc/Pictures/Screenshots/Screenshot from 2025-10-21 21-30-13.png
+<img width="1262" height="905" alt="image" src="https://github.com/user-attachments/assets/e7bf24ca-9588-49e9-b65c-20d41baf7616" 
+
+alerts.jsonzeigt übereinstimmende Regel
+  <img width="1850" height="840" alt="image" src="https://github.com/user-attachments/assets/6f8925bd-9c24-433c-9014-d27eb76df31f" />
+
    
 6. Windows Event Viewer / Sysmon (Screenshot).
 
