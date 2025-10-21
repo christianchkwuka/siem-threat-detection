@@ -26,6 +26,9 @@
 
 3. Suricata EVE Output page (Screenshot showing remote syslog to `WAZUH_IP:5514`).
 
+<img width="1887" height="870" alt="image" src="https://github.com/user-attachments/assets/dbd72715-7b0e-445c-93d6-48dcd29374be" />
+<img width="1862" height="835" alt="image" src="https://github.com/user-attachments/assets/a504407e-e7a5-4eea-8022-a9aca93a41bf" />
+
 4. Wazuh Manager `systemctl status wazuh-manager` (Screenshot).
 5. Windows Event Viewer / Sysmon (Screenshot).
 
