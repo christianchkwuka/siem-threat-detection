@@ -15,12 +15,18 @@
 
 ## Diagram & Screenshots (where to capture)
 1. Topology diagram (Draw.io/diagrams.net): show connections -> save `docs/img/topology.png`.
+
+
+  
+
 2. pfSense interfaces page (Screenshot).
+
+<img width="1777" height="798" alt="image" src="https://github.com/user-attachments/assets/c1f7e51c-9a13-4c6d-8a63-ceb027c0b756" />
+
+
 3. Suricata EVE Output page (Screenshot showing remote syslog to `WAZUH_IP:5514`).
+
 4. Wazuh Manager `systemctl status wazuh-manager` (Screenshot).
 5. Windows Event Viewer / Sysmon (Screenshot).
 
-
-
-<img width="1777" height="798" alt="image" src="https://github.com/user-attachments/assets/c1f7e51c-9a13-4c6d-8a63-ceb027c0b756" />
 
